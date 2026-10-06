@@ -12,6 +12,9 @@ Boston, open to roles anywhere in the US or remote.
 **[FirstCall](https://github.com/kishanpreetam/firstcall)**: can AI coding agents actually integrate your API?
 It gives an AI agent real integration tasks against real company APIs, using either the docs alone, the docs plus `llms.txt`, or the docs plus the company's MCP server. It then checks every result by reading the API back.
 
+**[Shortlist](https://github.com/kishanpreetam/shortlist)**: which jobs can you realistically get?
+It reads live postings from about 200 employers' public job boards and joins them with public H-1B filing and prevailing-wage data. It then ranks every opening for one person by skill fit, experience asked, sponsorship history and salary level. Built with Python and Polars.
+
 ### What I've shipped
 
 **[Scrapitch](https://scrapitch.com)** — live. I built it solo.
