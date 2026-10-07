@@ -3,7 +3,7 @@
 **AI Engineer.** I build multi-agent systems and ship them to production.
 Boston, open to roles anywhere in the US or remote.
 
-[Portfolio](https://portfolio-kishanpreetams-projects.vercel.app) · [LinkedIn](https://linkedin.com/in/kishan-preetam-kommana) · kishanpreetamkommana@gmail.com
+[Portfolio](https://kishanpreetam.vercel.app) · [LinkedIn](https://linkedin.com/in/kishan-preetam-kommana) · kishanpreetamkommana@gmail.com
 
 ---
 
